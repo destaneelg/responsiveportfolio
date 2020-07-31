@@ -1,1 +1,2 @@
 # responsiveportfolio
+This is a portfolio created to showcase my best works. It has 3 pages, a home page, contact page and portfolio. Currently the link the email form does not go anywhere but that is a work in progress. This website was created using bootstrap for the main sytling elements
